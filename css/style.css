@@ -117,6 +117,7 @@ button:hover {
     animation-delay: 0.2s;
 }
 
+/*Esto es para que funcionen las animaciones del titulo*/
 @keyframes fadeInSlide {
     to {
         opacity: 1;
